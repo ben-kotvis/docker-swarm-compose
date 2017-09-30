@@ -1,0 +1,12 @@
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Api
+--content-root=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\Home\About.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\Home\Contact.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\Home\Index.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\Shared\Error.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\Shared\_Layout.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\_ViewImports.cshtml
+--file=C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\Views\_ViewStart.cshtml

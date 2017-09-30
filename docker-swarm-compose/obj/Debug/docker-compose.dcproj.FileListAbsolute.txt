@@ -1,0 +1,1 @@
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

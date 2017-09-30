@@ -1,0 +1,11 @@
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\bin\Debug\netcoreapp2.0\Api.dll
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\bin\Debug\netcoreapp2.0\Api.pdb
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\obj\Debug\netcoreapp2.0\Api.csprojResolveAssemblyReference.cache
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\obj\Debug\netcoreapp2.0\Api.dll
+C:\Users\bkotvis\Source\Repos\docker-swarm-compose\docker-swarm-compose\Api\obj\Debug\netcoreapp2.0\Api.pdb
